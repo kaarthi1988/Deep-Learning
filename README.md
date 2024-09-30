@@ -30,7 +30,7 @@ To run this project, you'll need to install several Python packages. You can ins
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/kaarthi1899/iris-classification.git
+    git clone https://github.com/kaarthi1988/iris-classification.git
     cd iris-classification
     ```
 
